@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../travelprac-one-project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "travel-project-react"
+	}
+}
